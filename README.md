@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @edofrata
 - 👀 I’m interested in Artificial Intelligence, Computational Neuroscience and Software Engineering.
 - 🌱 I’m currently studying BSc Computer Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkeding : https://www.linkedin.com/in/edoardo-fratantonio-007825197/
 
 <!---
