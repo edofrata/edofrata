@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Bioinformatics Framework in Python and R.**
 
-- 👯 I’m looking to collaborate on **Bioinformatic Projects**
+- 👯 I’m looking to collaborate on **Bioinformatics Projects**
 
-- 💬 Ask me about **Machine Learning and/or AI algorithms, Python, Java, C++, Matlab, Javascript.**
+- 💬 Ask me about **Machine Learning, AI algorithms, Python, Java, C++, Matlab, Javascript.**
 
 - 📫 How to reach me **fratantonioedoardo@gmail.com**
 
